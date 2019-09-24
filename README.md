@@ -1,6 +1,11 @@
 react-burger-menu [![Build Status](https://travis-ci.org/negomi/react-burger-menu.svg?branch=master)](https://travis-ci.org/negomi/react-burger-menu) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 =================
 
+## Fork Andrea Reginato
+
+Keeps 15% of the region always open.
+
+## Demo & examples
 An off-canvas sidebar React component with a collection of effects and styles using CSS transitions and SVG path animations.
 
 *Using Redux? Check out [redux-burger-menu](https://github.com/negomi/redux-burger-menu) for easy integration of react-burger-menu into your project.*
